@@ -1,1 +1,1 @@
-document.write('<script async defer data-website-id="bcfde113-c301-4670-8eb9-9d41e09279b0" src="https://devanalytics.vercel.app/umami.js"></script>');
+document.write('<script async defer data-website-id="248c24ec-b395-49cf-8a77-b442088d8065" src="https://devanalytics.vercel.app/umami.js"></script>');
