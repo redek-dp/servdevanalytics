@@ -1,1 +1,2 @@
-document.write('<script async defer data-website-id="faac05aa-e4b4-4e04-a616-c6a953ff409b" src="https://devanalytics.vercel.app/script.js"></script>');
+var tokendd = 'c7133c0a-c231-4050-88bb-31c9abc0ea9a';
+document.write('<script async defer data-website-id="'+tokendd+'" src="https://devanalytics.vercel.app/script.js"></script>');
