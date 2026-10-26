@@ -1,4 +1,4 @@
-var tokendd = '9c3b2208-6875-4c6f-808f-2e386b8928ae';
+var tokendd = '78ff8b33-c376-4e18-8259-cb648aa8bd4c';
 var tokenddgtag = 'G-TLFHL660XV';
 
 document.write('<script async defer data-website-id="'+tokendd+'" src="https://devanalytics.vercel.app/script.js"></script> <script async src="https://www.googletagmanager.com/gtag/js?id='+tokenddgtag+'"></script>');

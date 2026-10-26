@@ -1,4 +1,4 @@
-var tokendd = '7cac9b1c-caf3-451e-8cef-b7b652c251f1';
+var tokendd = '3e8f60f9-98a9-4a91-aeaa-291745a00ad6';
 document.write('<script async defer data-website-id="'+tokendd+'" src="https://devanalytics.vercel.app/script.js"></script>');
 
 /*
